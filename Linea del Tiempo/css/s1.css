@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin: 0;
+    height: 175px;
+    width: 100%;
+    background-color: #3a2a2f;
+}
+
+header span {
+    font-size: 100px;
+    color: #FCED97;
+}
+
+header h2 {
+    color: white;
+    font-size: 50px;
+}
+
+body {
+    background-color: #CBD7B6;
+}
+
+.biografia {
+    display: flex;
+}
+
+.bio-pic {
+    margin: 20px;
+}
+
+.bio-pic img {
+    border-radius: 50%;
+}
+
+.bio-p {
+    margin-top: 50px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.resumen, .analisis {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 30px;
+}
